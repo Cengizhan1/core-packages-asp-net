@@ -10,3 +10,4 @@ C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Persistance\obj\Debug\
 C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.pdb
 C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\ref\Core.Persistance.dll
 C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.csproj.AssemblyReference.cache
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.sourcelink.json

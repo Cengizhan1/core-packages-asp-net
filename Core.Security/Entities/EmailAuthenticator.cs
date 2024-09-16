@@ -1,4 +1,5 @@
-﻿using Core.Persistance.Repositories;
+﻿
+using Core.Persistance.Repositories;
 
 namespace Core.Security.Entities;
 

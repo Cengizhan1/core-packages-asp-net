@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XWQIIDTfF4A=",
+  "dgSpecHash": "iN/pDxRiog0=",
   "success": true,
   "projectFilePath": "C:\\Projects\\Side Projects\\CorePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,9 @@
     "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\mycorepackage.crosscuttingconcerns\\1.0.0\\mycorepackage.crosscuttingconcerns.1.0.0.nupkg.sha512",
+    "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\mycorepackage.persistance\\1.0.0\\mycorepackage.persistance.1.0.0.nupkg.sha512",
+    "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\mycorepackage.security\\1.0.0\\mycorepackage.security.1.0.0.nupkg.sha512",
     "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\otp.net\\1.4.0\\otp.net.1.4.0.nupkg.sha512",
     "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",

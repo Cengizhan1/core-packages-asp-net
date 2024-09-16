@@ -5827,7 +5827,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Projects\\Side Projects\\CorePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
-      "projectName": "Core.CrossCuttingConcerns",
+      "projectName": "MyCorePackage.CrossCuttingConcerns",
       "projectPath": "C:\\Projects\\Side Projects\\CorePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
       "packagesPath": "C:\\Users\\cengizhan.yavuz\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\Side Projects\\CorePackages\\Core.Packages\\Core.CrossCuttingConcerns\\obj\\",

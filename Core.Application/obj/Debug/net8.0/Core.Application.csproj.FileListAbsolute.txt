@@ -9,11 +9,5 @@ C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\obj\Debug\
 C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\obj\Debug\net8.0\refint\Core.Application.dll
 C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.pdb
 C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\obj\Debug\net8.0\ref\Core.Application.dll
-C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Persistance.dll
-C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Persistance.pdb
 C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.csproj.AssemblyReference.cache
-C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.App.01B2A2D7.Up2Date
-C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
-C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
-C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Security.dll
-C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Security.pdb
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.sourcelink.json
