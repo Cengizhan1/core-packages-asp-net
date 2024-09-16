@@ -1,0 +1,15 @@
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.csproj.AssemblyReference.cache
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.AssemblyInfoInputs.cache
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.AssemblyInfo.cs
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.csproj.CoreCompileInputs.cache
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Security.deps.json
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Security.dll
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Security.pdb
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Persistance.dll
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\bin\Debug\net8.0\Core.Persistance.pdb
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Sec.BBB94791.Up2Date
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.dll
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\refint\Core.Security.dll
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\Core.Security.pdb
+C:\Projects\Side Projects\CorePackages\Core.Packages\Core.Security\obj\Debug\net8.0\ref\Core.Security.dll
